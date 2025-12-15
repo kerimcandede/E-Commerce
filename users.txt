@@ -1,0 +1,8 @@
+alisko,Aliye,Kilic,12345,23/04/1976,adsasddas@icloud.com,homeee,workkk
+ardak,Arda,Korkmaz,12345,11/05/2005,ardakorkmaz4455@gmail.com,homee,workkk
+aslisko,Aslı,Atkan,12345,26/11/2004,adsas@icloud.com,asdd,adss
+kuysat,Kursat,Kılıc,12345,25/03/2003,adsadsda@ladsl.com,home,work
+hey,name,surname,12345,25/03/2001,adsdsasd@iadsş.com,null,null
+Arda,Arda,Korkmaz,Arda0909,11/08/2005,a@gmail.com,a,a
+Ardak,Arda,Korkmaz,Arda0909,11/08/2005,a@gmail.com,a,a
+kerim,kerimcan,dede,kerim,07/11/2005,kerimcandede631@gmail.com,a st no 3 flat 1,no
